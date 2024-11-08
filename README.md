@@ -1,4 +1,2 @@
 # MetodosNumericos
-# MetodosNumericos
-# MetodosNumericos
-# MetodosNumericos
+
